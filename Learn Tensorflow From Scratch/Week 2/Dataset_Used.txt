@@ -1,0 +1,1 @@
+Horses and Humans dataset can be downloaded from here - https://www.kaggle.com/datasets/sanikamal/horses-or-humans-dataset
